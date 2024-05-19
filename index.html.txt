@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<LINK REL="STYLESHYEET" TYPE="TEXT/CSS" HREF="imagen.css">
+ <TITLE> IGSS </TITLE>
+
+</style>
+<style>
+ h1 {
+ color: #ffd700;
+ font-family: MS-Dialog;
+ font-size:64px;
+ text-aling: center;
+
+</style>
+<h1><center> I G S S
+</center>
+</h1>
+
+<style>
+
+.imagen-agregada {
+	 width: 400px; 
+	heigth: auto;
+</style>
+		<style>
+.boton-personalizado {
+border-radius: 25px;
+padding: 20px 25px;
+background-color: #ffd700;
+color: #000000;
+border: none;
+cursor: pointer;
+font-size: 20px;
+font-weight: bold;
+</style>
+</head>
+<BODY bgcolor="black" text="white">
+
+
+<center>
+	<a href="em.html">
+	<button type="sumit" class="boton-personalizado"> CONSULTA</button> 
+	
+			<a href=" ">
+		<button class="boton-personalizado"> RESETA</button>
+		</a>
+
+			
+	<a href="CHAT.HTML">
+<button class="boton-personalizado"> CHAT DOCTOR</button>
+</a>
+
+</center>
+
+<p>Como una consecuencia de la segunda guerra mundial y la difusión de ideas democráticas en el mundo, el 20 de octubre de 1944 se derrocó al gobierno del General Federico Ponce Vaides y se eligió un gobierno democrático, bajo la presidencia del Dr. Juan José Arévalo.
+
+El Gobierno de Guatemala de aquella época, gestionó la venida al país de dos técnicos en materia de Seguridad Social. Ellos fueron el Lic. OSCAR BARAHONA STREBER (costarricense) y el Actuario WALTER DITTEL (chileno), quienes hicieron un estudio de las condiciones económicas, geográficas, étnicas y culturales de Guatemala.
+
+El resultado de este estudio lo publicaron en un libro titulado «Bases de la Seguridad Social en Guatemala». Al promulgarse la Constitución de la República de aquel entonces, el pueblo de Guatemala, encontró entre las Garantías Sociales en el Artículo 63, el siguiente texto: «SE ESTABLECE EL SEGURO SOCIAL OBLIGATORIO».
+
+La Ley regulará sus alcances, extensión y la forma en que debe de ser puesto en vigor. El 30 de Octubre de 1946, el Congreso de la República de Guatemala, emite el Decreto número 295, «LA LEY ORGANICA DEL INSTITUTO GUATEMALTECO DE SEGURIDAD SOCIAL».
+
+Se crea así «Una Institución autónoma, de derecho público de personería jurídica propia y plena capacidad para adquirir derechos y contraer obligaciones, cuya finalidad es aplicar en beneficio del pueblo de Guatemala, un Régimen Nacional, Unitario y Obligatorio de Seguridad Social, de conformidad con el sistema de protección mínima» (Cap. 1°, Art. 1°). Un Régimen Nacional, Unitario y Obligatorio, esto significa que debe cubrir todo el territorio de la República, debe ser único para evitar la duplicación de esfuerzos y de cargas tributarias; los patronos y trabajadores de acuerdo con la Ley, deben de estar inscritos como contribuyentes, no pueden evadir esta obligación, pues ello significaría incurrir en la falta de previsión social.
+
+La Constitución Política de la República de Guatemala, promulgada el 31 de Mayo de 1985, señala en el artículo 100: «Seguridad Social. El Estado reconoce y garantiza el derecho de la seguridad social para beneficio de los habitantes de la Nación”.
+</p>
+
+<center><IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\IGSS\ya\IGSS.jpeg" alt="espacio" height= "500"" > <p> Como una consecuencia de la segunda guerra mundial y la difusión de ideas democráticas en el mundo, el 20 de octubre de 1944 se derrocó al gobierno del General Federico Ponce Vaides y se eligió un gobierno democrático, bajo la presidencia del Dr. Juan José Arévalo.
+
+El Gobierno de Guatemala de aquella época, gestionó la venida al país de dos técnicos en materia de Seguridad Social. Ellos fueron el Lic. OSCAR BARAHONA STREBER (costarricense) y el Actuario WALTER DITTEL (chileno), quienes hicieron un estudio de las condiciones económicas, geográficas, étnicas y culturales de Guatemala.
+
+El resultado de este estudio lo publicaron en un libro titulado «Bases de la Seguridad Social en Guatemala». Al promulgarse la Constitución de la República de aquel entonces, el pueblo de Guatemala, encontró entre las Garantías Sociales en el Artículo 63, el siguiente texto: «SE ESTABLECE EL SEGURO SOCIAL OBLIGATORIO».
+
+La Ley regulará sus alcances, extensión y la forma en que debe de ser puesto en vigor. El 30 de Octubre de 1946, el Congreso de la República de Guatemala, emite el Decreto número 295, «LA LEY ORGANICA DEL INSTITUTO GUATEMALTECO DE SEGURIDAD SOCIAL».
+
+Se crea así «Una Institución autónoma, de derecho público de personería jurídica propia y plena capacidad para adquirir derechos y contraer obligaciones, cuya finalidad es aplicar en beneficio del pueblo de Guatemala, un Régimen Nacional, Unitario y Obligatorio de Seguridad Social, de conformidad con el sistema de protección mínima» (Cap. 1°, Art. 1°). Un Régimen Nacional, Unitario y Obligatorio, esto significa que debe cubrir todo el territorio de la República, debe ser único para evitar la duplicación de esfuerzos y de cargas tributarias; los patronos y trabajadores de acuerdo con la Ley, deben de estar inscritos como contribuyentes, no pueden evadir esta obligación, pues ello significaría incurrir en la falta de previsión social.
+
+La Constitución Política de la República de Guatemala, promulgada el 31 de Mayo de 1985, señala en el artículo 100: «Seguridad Social. El Estado reconoce y garantiza el derecho de la seguridad social para beneficio de los habitantes de la Nación”. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
